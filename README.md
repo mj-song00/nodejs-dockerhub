@@ -1,1 +1,1 @@
-CI 실행 테스트 commit
+- CI 실행 테스트 commit
